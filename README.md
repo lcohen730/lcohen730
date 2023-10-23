@@ -1,4 +1,13 @@
 ### Hi there 👋
+I am a recent coding bootcamp graduate and React enthusiast.
+
+🔭 I’m currently working on an online store for a non-profit in Atlanta, GA called Change Your Story. Change Your Story's mission is to assist women and girls in creating positive life outcomes through programs that are relevant, progressive, and empowering. The online store will help this organization raise funds to continue helping their community.
+
+🌱 I’m currently learning about data structures and algorithms on Interview Cake, and I'm learning Typescript on Frontend Masters.
+
+👯 I’m looking to collaborate on any of my repositories as well as any project you may want some help on!
+
+⚡ Fun fact: I know 24 digits of pi by heart for no reason.
 
 <!--
 **lcohen730/lcohen730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
