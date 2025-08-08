@@ -2,8 +2,11 @@
 I’m a full-stack software developer with a strong focus on Java, SQL, and React. I enjoy building clean, maintainable applications that solve real problems.
 
 🔭 Currently developing a three-layer Java application for solar panel management, applying design patterns and clean architecture principles.
+
 🌱 Expanding my expertise in data structures, algorithms, and backend development, while continuing to build advanced React applications.
+
 💼 Open to opportunities where I can contribute to impactful projects, collaborate with a skilled team, and grow as a developer.
+
 ⚡ Fun fact: I once memorized 24 digits of pi for no reason other than the challenge.
 
 <!--
