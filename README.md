@@ -1,13 +1,10 @@
 ### Hi there 👋
-I am a recent coding bootcamp graduate and React enthusiast.
+I’m a full-stack software developer with a strong focus on Java, SQL, and React. I enjoy building clean, maintainable applications that solve real problems.
 
-🔭 I’m currently working on a Next.js tutorial so I can incorporate Next.js into my future full-stack applications.
-
-🌱 I’m currently learning about data structures and algorithms on Interview Cake, and I am listening to the podcast "Syntax", hosted by Wes Bos and Scott Tolinski.
-
-👯 I’m looking to collaborate on any of my repositories as well as any project you may want some help on!
-
-⚡ Fun fact: I know 24 digits of pi by heart for no reason.
+🔭 Currently developing a three-layer Java application for solar panel management, applying design patterns and clean architecture principles.
+🌱 Expanding my expertise in data structures, algorithms, and backend development, while continuing to build advanced React applications.
+💼 Open to opportunities where I can contribute to impactful projects, collaborate with a skilled team, and grow as a developer.
+⚡ Fun fact: I once memorized 24 digits of pi for no reason other than the challenge.
 
 <!--
 **lcohen730/lcohen730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
